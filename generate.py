@@ -9,10 +9,9 @@ base = {
     "conf-staff-list": """
 - Mena Marotta (she/her)
 - Matteo Bertini (he/him)
-- Aurélien Rainone (he/him)
 - Niccolò Pieretti (he/him)
 """,
-    "conf-year": "2023",
+    "conf-year": "2024",
     "conf-location": "Florence, Italy",
 }
 
@@ -22,17 +21,19 @@ conf_data = {
         "conf-hostname": "golab.io",
         "conf-lang": "Go",
         "conf-fist-year": "2015",
+        "conf-dates": "November 11-13",
     },
     "rustlab": {
         "conf-name": "RustLab",
         "conf-hostname": "rustlab.it",
         "conf-lang": "Rust",
         "conf-fist-year": "2019",
+        "conf-dates": "November 9-11",
     },
 }
 
 for conf in conf_data:
-    conf_data[conf]["conf-slug"] = conf+base["conf-year"]
+    conf_data[conf]["conf-slug"] = conf+'-'+base["conf-year"]
 
 for this, other in [("golab", "rustlab"), ("rustlab", "golab")]:
     for key in list(conf_data[this]):
