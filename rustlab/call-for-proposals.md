@@ -1,145 +1,161 @@
-# RustLab 2023 Call For Proposals
+# RustLab 2024 Call For Proposals
 
 ## Event Details
 
 ### Event Name
 
-```
-RustLab 2023
-```
+
+RustLab 2024
+
+
+---
 
 ### Event Slug
 
-```
-https://www.papercall.io/rustlab2023
-```
+
+https://sessionize.com/rustlab-2024
+
+---
 
 ### Event Website
 
-```
+
 https://rustlab.it
-```
+
+---
 
 ### Event Location
 
-```
+
 Florence, Italy
-```
+
+---
 
 ### Event Dates
 
-...
+
+November 9-11, 2024
+
+---
 
 ### Event Description
 
-```
-RustLab is an all-round conference on Rust programming which began in 2019, organized by developers, for developers. Since 2022 we are organizing RustLab and GoLab as a co-located conference. It is organized by Develer, a software house based in Florence, Italy.
 
-This year RustLab will be an **in-person event**. In this edition you will find talks and workshops. Each talk is planned to be 40 minutes. The workshops will be 3 hours long and focused on practical case studies. We'll have a lightning talks session too.
-```
+RustLab is a comprehensive conference on Rust programming that started in 2019, organized by developers for developers.
+Since 2022, we have held RustLab and GoLab as a co-located conference, but this year they are back-to-back with a 1-day overlap.
+It is organized by Develer, a software company based in Florence, Italy.
+
+RustLab will be an **in-person event**. In this edition you will find talks and workshops.
+
+We'll have two types of talks, a shorter one, the **25 min Discovery** talk, and a longer one, the **40 min Deep-dive** talk.
+
+The Discovery talk is for the speaker who has found something cool and wants to share it with the world and inspire other developers.
+
+Instead, the Deep-dive talk is intended to present and explain a topic in which the speaker is an expert. 
+
+The workshops are 3 hours long and focus on practical case studies.
+
+---
 
 ### Event Code of Conduct
 
-```
-RustLab organizers are committed to ensure a safe and welcoming environment for all participants at all events.
 
-We expect all attendees at RustLab to abide by its Code of Conduct in all venues throughout the conference, including ancillary events and official and unofficial social gatherings.
+The RustLab organizers are committed to providing a safe and welcoming environment for all attendees at all events.
 
-If you are being subjected to, or notice that someone else is being subjected to, behavior that violates this code of conduct, please don't hesitate to complete the Code of Conduct Incident Form (on the website) or contact the organizers.
+We expect all RustLab attendees to abide by the Code of Conduct in all venues throughout the conference, including ancillary events and official and unofficial social gatherings.
+
+If you are subjected to, or notice someone else being subjected to, behavior that violates this Code of Conduct, please don't hesitate to fill out the Code of Conduct Incident Form (on the website) or contact the organizers.
 
 ALL REPORTS ARE CONFIDENTIAL.
-```
+
+---
 
 ## CFP Details
 
-### Is this event recurring like Meetup?
-
-```
-No
-```
-
 ### Opening Date / Closing Date
 
-...
+---
+
+15 Mar 2024 12:00 am - 05 May 2024 11:59 pm (Italy local time)
+
+---
 
 ### Is this an anonymized submission process?
-```
+
 No
-```
+
+---
 
 ### CFP Description
 
-```md
-> Please note that all times mentioned in this Call for Proposals, including **the opening and closing times, are expressed in Coordinated Universal Time** (UTC).
+While we are open to considering any application, we would like our speakers to present **original content**.
 
-Though we are open to evaluate any application, we would like our speakers to present **original contents**.
+We will accept the following types of talks:
 
-We will accept the following kinds of talks:
 
-* 40 minutes talks
-* 3 hours workshops
+* 25 min - Discovery talks
+* 40 min - Deep-dive talks
+* 3 hours - Workshops
 
 ## Talks
 
-A talk is a 40 minute presentation, with slides and/or live coding, followed by a short Q&A session.
+The **Discovery talk** is for the speaker who has found something cool and wants to share it with the world and inspire other developers. There is no question time in this format.
+
+Instead, the **Deep-dive talk** is intended to present and explain a topic that the presenter is an expert on and/or wants to share in more detail. The presenter can use the entire time for the talk or reserve a few minutes for questions.
 
 ## Workshop
 
-A workshop is more practical. The speaker can involve the audience in a hands-on tutorial about a topic/technology. The attendees may be asked to set up their environment in advance.
+A workshop is more hands-on. The presenter can engage the audience in a hands-on tutorial on a topic/technology. Attendees may be asked to set up their environment in advance.
 
-We expect all workshops to host at least 20 people.
+We expect at least 20 people to attend all workshops.
 
 ## Topics
 
-> As last year, RustLab and GoLab are uniting in a co-located conference! However there’s a Call For Proposals for each conference. This CFP is for RustLab only. Please refer to the [GoLab](https://golab.io) 2023 CFP for proposals to the Go track.
+RustLab is open to any Rust related topic. Examples include cloud and networking, language and ecosystem, devices and platforms, security. Cross-topic proposals are also welcome.
 
-RustLab is open to any Rust related topic. Examples are Cloud and Networking, Language and Ecosystem, Devices and Platforms, Security. Cross-topic proposals are also welcome.
+If you have a particularly interesting talk that doesn't fit into one of the suggested topics, feel free to submit it anyway and we'll be happy to consider it.
 
-In addition to the Rust and Go tracks, we’ll host a third track dedicated to hackers and thinkers. Surprise us with some cool project or a thought-provoking talk (ethics, privacy, climate, …)!
+## We welcome first-time speakers.
 
-If you’ve got a particularly interesting talk that doesn’t target one of the proposed topics, feel free to submit it anyway and we’ll be happy to consider it.
+In the coming months, we will offer weekly online office hours for all accepted speakers, where you can talk to us and ask your questions directly.
 
-## We warmly welcome first time speakers.
+We will offer 1 to 1 rehearsals, either online or in person at the Develer offices (Calenzano, near Florence), where you can practice your talk and get suggestions.
 
-In the next months, for all the accepted speakers, we offer weekly online office hours where you can talk with us and ask your question directly.
+## After you have sent your proposal
 
-We will offer 1 to 1 rehearsals either online or in presence at the Develer offices (Calenzano, near Florence), where you can try your talk and receive suggestions.
+We'll review your proposal as soon as possible and give you some feedback.
 
-## After you sent your proposal
+Let's make a great conference together!
 
-We’ll review your proposal as soon as possible and you’ll be provided some feedback.
-
-Let’s have a great conference together!
-```
+---
 
 ### Additional Information
 
-```
-Please, write us any particular request or ask for clarification about anything.
-```
+Please, write us any special request or ask for clarification about anything.
+
+---
 
 ### CFP Notes
 
-```md
 ## Language
 
-All talks are in English.
+All presentations will be in English.
 
 ## Content Guidelines
 
-We assume a common baseline of respectful tones from everyone (see the Code of Conduct for more details).
+We expect a common baseline of respectful tone from everyone (see the Code of Conduct for more details).
 
-The speakers are allowed to put a company logo on the introduction slide only. Talks about commercial products are allowed, as long as they are focused on the technical aspect.
+Presenters may include a company logo on the introduction slide only. Talks about commercial products are allowed as long as they focus on the technical aspect.
 
-If you would like to speak about a product of your company with more freedom, please consider giving a **sponsored talk**. You can contact us for further information at info@rustlab.it.
-```
+If you would like to speak about your company's product with more freedom, please consider giving a **sponsored talk**. You can contact us for more information at sponsors@rustlab.it.
+
 
 ### Which types of talks will you accept?
 
-```md
-- Talk (40 minutes)
+- Discovery talk (25 min)
+- Deep-dive talk (40 min)
 - Workshop (3 hours)
-```
+
 
 ### Tags
 
@@ -149,32 +165,26 @@ If you would like to speak about a product of your company with more freedom, pl
 
 ### Do you offer travel assistance?
 
-```
-Yes
-```
+No
+
+---
 
 ### If yes, what is your policy?
 
-```md
-Accepted speakers are offered reimbursement for their transportation and accommodation expenses, with a limit of 300€.
-
-Otherwise, speakers are welcome to make donations to non-profit organizations, providing us with all relevant information.
-
-Note: In the case of talks with co-presenters, the reimbursement will still be 300€.
+Accepted speakers will have a reserved room at the venue hotel for the 2 days of the conference (3 days for workshop speakers). 
 
 ## Environmental commitment
 
-This year we are focusing even more on our planet and the environmental emergency. Thanks to our partner [Treedom](https://www.treedom.net) we'll grow a small forest as part of the RustLab + GoLab 2023 CO2 compensation initiative.
-```
+We are focusing even more on our planet and the environmental emergency. Thanks to our partner [Treedom](https://www.treedom.net), we'll be growing a small forest as part of the RustLab + GoLab 2024 CO2 offsetting initiative.
+
 
 ### Rating Style
 
-```
+
 Five Star (scalar)
-```
+
 
 ### Profile Submission Settings
 
-```
+
 no Shirt Size
-```

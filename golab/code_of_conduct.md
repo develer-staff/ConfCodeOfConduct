@@ -44,7 +44,6 @@ If the matter is especially urgent, please contact any of these individuals or e
 
 - Mena Marotta (she/her)
 - Matteo Bertini (he/him)
-- Aurélien Rainone (he/him)
 - Niccolò Pieretti (he/him)
 
 
